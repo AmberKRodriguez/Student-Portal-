@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Student Portal</string>
+    <string name="home">Home Page</string>
+    <string name="enter">Enter</string>
+    <string name="back">Back</string>
+    <string name="exit">Exit</string>
+    <string name="schedule">Schedule</string>
+    <string name="profile">Profile</string>
+    <string name="cancel">Cancel</string>
+    <string name="profileInfo">
+        \nName: Amber Rodriguez
+        \nDegree: Applied Technology
+        \nUniversity: UMGC
+        \nGPA: 4.0
+        \nGraduation: Fall 2026
+    </string>
+    <string name="scheduleInfo">
+        \nCampus location: Online - Tennessee
+        \nDate/Time: September 16 9:00
+        \nUpcoming classes:
+        \n1.CMSC 315 Data Structures and Analysis
+        \n2.CMSC 330 Advanced Programming Languages
+        \n3.CMST 3D Modeling
+        \nGPA: 4.0
+        \nGraduation: Fall 2026
+     </string>
+
+</resources>
