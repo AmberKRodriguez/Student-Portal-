@@ -9,10 +9,12 @@ Complete Project -> [Amber Rodriguez - Project 3 Adding Navigation to an App.zip
 
 <h3>Steps taken : </h3>
 <ol>
-<li>Created Welcome Page that leads to main Screen page with click of  “Enter” Button.</li>
-<li>Home Screen page created to have buttons that allow you to navigate to the Student Profile Page, Class Schedule Page, back and an exit.</li>
-<li>The Student Profile screen page shall encompass essential education profile fields such as Name, Degree, GPA, University, and graduation date.</li>
-<li>The Student Schedule page displays information about the campus location, current date and time, schedule of upcoming classes, and back and an exit buttons.</li>
+<li>Created Welcome Page that leads to main Screen page with click of  “Enter” Button.</li> <a href="https://github.com/AmberKRodriguez/Student-Portal-/blob/main/HomeScreen.kt">Script</a>
+<li>Home Screen page created to have buttons that allow you to navigate to the Student Profile Page, Class Schedule Page, back and an exit. <a href="https://github.com/AmberKRodriguez/Student-Portal-/blob/main/HomeScreen.kt">Script</a></li>
+<li>The Student Profile screen page shall encompass essential education profile fields such as Name, Degree, GPA, University, and graduation date. 
+  <a href="https://github.com/AmberKRodriguez/Student-Portal-/blob/main/ProfileScreen.kt">Script</a></li>
+<li>The Student Schedule page displays information about the campus location, current date and time, schedule of upcoming classes, and back and an exit buttons.
+<a href="https://github.com/AmberKRodriguez/Student-Portal-/blob/main/ScheduleScreen.kt">Script</a></li>
 <li>The Exit button redirects users to the Welcome Page, and Back button should return to the previous screen.</li>
 </ol>
 <br>
