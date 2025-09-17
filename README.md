@@ -11,13 +11,13 @@ Complete Project -> [Amber Rodriguez - Project 3 Adding Navigation to an App.zip
 <ol>
 <li>Created Welcome Page that leads to main Screen page with click of  “Enter” Button.</li>
 <li>Home Screen page created to have buttons that allow you to navigate to the Student Profile Page, Class Schedule Page, back and an exit.</li>
+<li>The Student Profile screen page shall encompass essential education profile fields such as Name, Degree, GPA, University, and graduation date.</li>
+<li>The Student Schedule page displays information about the campus location, current date and time, schedule of upcoming classes, and back and an exit buttons.</li>
+<li>The Exit button redirects users to the Welcome Page, and Back button should return to the previous screen.</li>
 </ol>
 <br>
 <img width="873" height="800" alt="Screenshot 2025-09-17 at 11 08 37 AM" src="https://github.com/user-attachments/assets/f49550f3-7c75-4cdb-ba99-f1749c3c6971" />
 <img width="873" height="800" alt="Screenshot 2025-09-17 at 11 09 27 AM" src="https://github.com/user-attachments/assets/851a45aa-a679-455b-bc88-58dee3e7442b" />
+<img width="873" height="800" alt="Screenshot 2025-09-17 at 11 15 46 AM" src="https://github.com/user-attachments/assets/51522562-2cb6-4d18-86f2-7aac72ee00f9" />
+<img width="1089" height="879" alt="Screenshot 2025-09-17 at 11 16 37 AM" src="https://github.com/user-attachments/assets/731eb77d-9d1c-441d-b4a0-84fec2a2daa5" />
 
-
-<img width="873" height="800" alt="Screenshot 2025-09-16 at 9 38 04 PM" src="https://github.com/user-attachments/assets/5f742729-4d3c-4131-be9b-717d6e275f7c" />
-<img width="873" height="800" alt="Screenshot 2025-09-16 at 9 37 54 PM" src="https://github.com/user-attachments/assets/61c5bb22-f9f4-4ab5-9315-85bfd016a1d0" />
-<img width="873" height="800" alt="Screenshot 2025-09-16 at 9 37 45 PM" src="https://github.com/user-attachments/assets/9fa454e9-a3ea-47bb-bc05-d9eb491560b5" />
-<img width="873" height="800" alt="Screenshot 2025-09-16 at 9 37 39 PM" src="https://github.com/user-attachments/assets/2bf2724f-ebb1-45fe-b699-7384720174da" />
