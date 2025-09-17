@@ -19,5 +19,5 @@ Complete Project -> [Amber Rodriguez - Project 3 Adding Navigation to an App.zip
 <img width="873" height="800" alt="Screenshot 2025-09-17 at 11 08 37 AM" src="https://github.com/user-attachments/assets/f49550f3-7c75-4cdb-ba99-f1749c3c6971" />
 <img width="873" height="800" alt="Screenshot 2025-09-17 at 11 09 27 AM" src="https://github.com/user-attachments/assets/851a45aa-a679-455b-bc88-58dee3e7442b" />
 <img width="873" height="800" alt="Screenshot 2025-09-17 at 11 15 46 AM" src="https://github.com/user-attachments/assets/51522562-2cb6-4d18-86f2-7aac72ee00f9" />
-<img width="1089" height="879" alt="Screenshot 2025-09-17 at 11 16 37 AM" src="https://github.com/user-attachments/assets/731eb77d-9d1c-441d-b4a0-84fec2a2daa5" />
+<img width="873" height="800" alt="Screenshot 2025-09-17 at 11 16 37 AM" src="https://github.com/user-attachments/assets/731eb77d-9d1c-441d-b4a0-84fec2a2daa5" />
 
