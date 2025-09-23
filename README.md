@@ -1,4 +1,4 @@
-<a href="https://amberkrodriguez.github.io/Portfolio-/">Main Page</a>
+<a href="https://amberkrodriguez.github.io/Portfolio-/">Back</a>
 <h1>Adding Navigation to an App</h1>
 <p>Student Portal application that allows the mobile user to navigate to various navigation screens, including a Welcome Screen Page, a Home Page, a Student Profile Page, and a Class Schedule Page.</p>
 
